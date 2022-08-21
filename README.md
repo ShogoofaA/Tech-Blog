@@ -12,10 +12,14 @@ This Tech blog strives to connect people of all backgrounds of the tech communit
   * [Licensing](#licensing)
 
   # Link
-
+    
+https://protected-tundra-29738.herokuapp.com/
 
   # Usage
  
+ ![splash-page](./images/IMG_3012.JPG)
+ ![splash-page](./images/IMG_3015.JPG)
+
     
   # Licensing 
   This project is licensed under the MIT license.
